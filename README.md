@@ -33,8 +33,6 @@ Building a comprehensive crop modeling system that addresses yield prediction, d
 
 ## 1. Project Overview
 
-A robust final-year project should include the following objectives:
-
 1. **Modular Sub-Models**  
    - **Plant Disease Detection**: A CNN trained on leaf imagery  
    - **Nutrient Management**: A regression or tree-based model estimating fertilizer impact  
